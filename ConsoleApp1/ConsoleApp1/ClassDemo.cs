@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("This is a static method");
         }
+        public void Display1()
+        {
+            Console.WriteLine("This is instance method");
+        }
     }
 }
